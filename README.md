@@ -1,2 +1,2 @@
-# Recommender-System-using-SVD-and-KNN
+# Recommender-System-for-movies-using-SVD-and-KNN
 Create a Recommender system for movies using Surprise Package(algos used SVD and KNN)
